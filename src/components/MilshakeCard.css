@@ -1,0 +1,35 @@
+.milshake-card {
+  margin-top: 15px;
+  text-align: left;
+  background-color: white;
+  width: 324px;
+  height: 93px;
+  border-radius: 8px;
+}
+.milshake-card h3 {
+  margin-top: 30px;
+  margin-left: 20px;
+  color: black;
+  font-size: 14px;
+  font-weight: 600;
+}
+.milshake-card p {
+  margin-left: 10px;
+  color: rgba(0, 0, 0, 0.64);
+  font-size: 14px;
+  font-weight: 600;
+}
+.milshake-card span {
+  margin-left: 10px;
+  color: black;
+  font-size: 14px;
+  font-weight: 600;
+}
+.milshake-card button{
+    border-radius: 3px;
+    width: 56px;
+    height: 28px;
+    background-color: brown;
+    color: white;
+    border: none;
+}
