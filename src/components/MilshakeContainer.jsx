@@ -1,7 +1,6 @@
 import React from "react";
-import milshakes from "../../../2Parcial-1/src/assets/milshakes.json";
-import { MilshakeCard } from "../../../2Parcial-1/src/components/MilshakeCard";
-
+import { MilshakeCard } from "./MilshakeCard";
+import milshakes from "../assets/milshakes.json";
 export const MilshakeContainer = () => {
   return (
     <div className="milshake-container">
